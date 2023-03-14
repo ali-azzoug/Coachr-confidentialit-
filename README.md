@@ -1,5 +1,4 @@
-# Coachr-conditions-générales
-
+# Coachr Engagement de confidentialité
 COACHR
 Conditions générales d'utilisation
 1. Préambule
